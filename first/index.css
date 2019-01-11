@@ -1,0 +1,30 @@
+
+
+body {
+    width: 100vw;
+}
+
+.top {
+    background-color: grey;
+    height: 15vh;
+    width: 100%;
+}
+
+.big_square {
+    background-color: rgb(197, 197, 197);
+    height: 80vh;
+    width: 100%;
+}
+
+.middle_square {
+    background-color: white;
+    height: 90%;
+    width:80%;
+    margin-left: 10%;
+}
+.bottom_square {
+    background-color: rgb(65, 65, 65);
+    height: 10%;
+    width: 80%;
+    margin-left: 10%;
+}

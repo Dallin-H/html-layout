@@ -1,0 +1,71 @@
+
+body {
+    margin: 0;
+    padding: 25px;
+}
+
+.top_box {
+    border: solid 5px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.purple_rect {
+    background-color: purple;
+    width: 40px;
+    height: 90px;
+    display: inline-block;
+}
+
+.green_rect {
+    background-color: green;
+    width: 50%;
+    height: 120px;
+    display: inline-block;
+    margin: 0 50px;
+}
+.blue_circ {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.dotted_box {
+    margin-top: 25px;
+    border: dotted 5px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 50px;
+}
+
+.yellow_rect {
+    background-color: rgba(226, 226, 52, 0.774);
+    width: 90%;
+    box-sizing: border-box;
+    padding: 100px;
+    box-shadow: 35px 27px 78px 9px rgba(0,0,0,0.82);
+-webkit-box-shadow: 35px 27px 78px 9px rgba(0,0,0,0.82);
+-moz-box-shadow: 35px 27px 78px 9px rgba(0,0,0,0.82);
+}
+
+.white_rect {
+    background-color: rgba(255, 255, 255, 0.774);
+    width: 90%;
+    box-sizing: border-box;
+    padding: 100px;
+    margin-left: 5%;
+    margin-top: 25px;
+    box-shadow: 4px 5px 18px 0px rgba(175,175,175,1);
+-webkit-box-shadow: 4px 5px 18px 0px rgba(175,175,175,1);
+-moz-box-shadow: 4px 5px 18px 0px rgba(175,175,175,1);
+}
+
+.white_rect h1 {
+    width: 100%;
+    text-align: center;
+    color:blue;
+    letter-spacing: 10px;
+}

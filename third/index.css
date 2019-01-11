@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    width: 100%
+}
+
+.first_container {
+    background-color: lightgray;
+    height: 15vh;
+}
+
+.blue_square {
+    background-color: skyblue;
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+}
+
+.second_container {
+    height: 30vh;
+}
+
+.second_container_span {
+    color: grey;    
+}
+
+.first_rect {
+    background-color: skyblue;
+    height: 15vh;
+}
+.second_rect {
+    background-color: aqua;
+    height: 15vh;
+}
+.third_rect {
+    background-color: rgb(159, 168, 105);
+    height: 15vh;
+}
+.fourth_rect {
+    background-color: rgb(189, 189, 33);
+    height: 15vh;
+}
